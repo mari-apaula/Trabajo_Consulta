@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Consulta.iml" filepath="$PROJECT_DIR$/.idea/modules/Consulta.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Consulta-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Consulta-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ObservacionReactiva.iml" filepath="$PROJECT_DIR$/.idea/modules/ObservacionReactiva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ObservacionReactiva-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ObservacionReactiva-build.iml" />
     </modules>
   </component>
 </project>

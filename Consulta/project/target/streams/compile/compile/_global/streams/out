@@ -1,0 +1,16 @@
+[error] C:\Users\USUARIO\Downloads\Trabajo_Consulta\Consulta\project\MiStream.scala:1:8: not found: object akka
+[error] import akka.actor.ActorSystem
+[error]        ^
+[error] C:\Users\USUARIO\Downloads\Trabajo_Consulta\Consulta\project\MiStream.scala:2:8: not found: object akka
+[error] import akka.stream.scaladsl.{Sink, Source}
+[error]        ^
+[error] C:\Users\USUARIO\Downloads\Trabajo_Consulta\Consulta\project\MiStream.scala:9:24: not found: type ActorSystem
+[error]   implicit val system: ActorSystem = ActorSystem("Observacion")
+[error]                        ^
+[error] C:\Users\USUARIO\Downloads\Trabajo_Consulta\Consulta\project\MiStream.scala:9:38: not found: value ActorSystem
+[error]   implicit val system: ActorSystem = ActorSystem("Observacion")
+[error]                                      ^
+[error] C:\Users\USUARIO\Downloads\Trabajo_Consulta\Consulta\project\MiStream.scala:13:16: not found: value Source
+[error]   val source = Source(1 to 5)
+[error]                ^
+[error] 5 errors found
